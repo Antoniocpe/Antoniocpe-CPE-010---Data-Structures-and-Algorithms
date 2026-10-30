@@ -9,6 +9,7 @@
 ## CILO
 
 **SO 7 PI 1**
+
 IILO4 Utilize lifelong learning skills in pursuit of personal development and excellence in professional practice.
 
 | Proficiency Rating | Points |
@@ -21,6 +22,7 @@ IILO4 Utilize lifelong learning skills in pursuit of personal development and ex
 | Very Poor / No initiative or interest in acquiring new knowledge | 1 |
 
 **SO 7 PI 2**
+
 IILO4 Utilize lifelong learning skills in pursuit of personal development and excellence in professional practice.
 
 | Proficiency Rating | Points |
@@ -34,6 +36,7 @@ IILO4 Utilize lifelong learning skills in pursuit of personal development and ex
 
 
 **SO 7 PI 3**
+
 IILO4 Utilize lifelong learning skills in pursuit of personal development and excellence in professional practice.
 
 | Proficiency Rating | Points |
@@ -46,6 +49,7 @@ IILO4 Utilize lifelong learning skills in pursuit of personal development and ex
 | Very Poor / Gather information from a variety of sources | 1 |
 
 **SO 7 PI 4**
+
 IILO4 Utilize lifelong learning skills in pursuit of personal development and excellence in professional practice.
 
 | Proficiency Rating | Points |
